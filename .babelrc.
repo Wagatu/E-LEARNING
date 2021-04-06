@@ -1,0 +1,7 @@
+{
+  "presets": ["babel-preset-env", "react"],
+  "plugins": [
+    "transform-decorators-legacy"
+  ]
+}
+© 2021 GitHub, Inc.
